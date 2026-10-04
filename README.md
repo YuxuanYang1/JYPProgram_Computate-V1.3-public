@@ -35,9 +35,11 @@ V1.3-start 2026.9.25
 更改：admin,main,menu
 删除：announcement,history
 
-V1.3-poblic 2026.9.26
+V1.3-public 2026.9.26
 上传至GitHub，并做了些修正
 
 Lastest Update:2026.9.26
-Current Version:V1.3-poblic-09271700
+Current Version:V1.3-public-09271700
 (2026.9.26,YuxuanYang1)
+
+!这个版本已被抛弃！请寻找：JYPProgram_Computate-V1.3-Alpha
